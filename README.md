@@ -52,5 +52,5 @@ Active Directory, DNS, Group Policy, NTFS/share permissions, PowerShell,
 VirtualBox, troubleshooting, documentation.
 
 ## What I learned
-(Write 3 to 4 sentences in your own words.)# active-directory-home-lab
+ active-directory-home-lab
 Virtualised Active Directory lab with Windows Server 2022: domain, OUs, groups, file shares and Group Policy.
